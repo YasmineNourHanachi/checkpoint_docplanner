@@ -1,0 +1,18 @@
+-flexbox : division de page web, mise en page, positionnement des elements. elements flexible ( display flex)
+il y a les parents (container) et a l'interieur les enfants (items)
+display flex
+flex direction column
+flex directin rows
+flex size
+flex order
+felx alignment
+space around 
+justify content space between
+flex start 
+flex end
+centrer en  y : align item center
+
+-responsive web design : site qui s'adapte a toute les tailles d'ecran,
+bootstrap : <div class container >
+            <div class rows>
+- @media : css
